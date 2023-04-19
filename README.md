@@ -35,10 +35,8 @@ Attribute Information:
 
 Results
 
-
-
-
+![image](https://user-images.githubusercontent.com/98638245/233223299-9170a7b7-0317-409e-a56a-c00fe8b30638.png)
 
 Convergence Graph
 
-
+![image](https://user-images.githubusercontent.com/98638245/233223348-1462975f-7e77-4a8d-9a99-3e3ac1f61e84.png)
